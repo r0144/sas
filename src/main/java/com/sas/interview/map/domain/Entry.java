@@ -19,7 +19,7 @@ public class Entry {
 		return key;
 	}
 
-	public void setKey(String key) throws Exception {
+	public void setKey(String key) {
 		this.key = key;
 	}
 
